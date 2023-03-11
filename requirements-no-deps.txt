@@ -1,0 +1,2 @@
+deepsig @ git+https://github.com/Kaleidophon/deep-significance.git@1f3d676075263213f2ae2f0156b22c5ee377b3f3
+dill==0.3.4

@@ -1,0 +1,362 @@
+[
+    {
+        "depth": 5,
+        "kernel_size": 33,
+        "nb_filters": 16,
+        "window_length": 29.412018221121727
+    },
+    {
+        "depth": 8,
+        "kernel_size": 100,
+        "nb_filters": 4,
+        "window_length": 17.53938850108171
+    },
+    {
+        "depth": 9,
+        "kernel_size": 97,
+        "nb_filters": 8,
+        "window_length": 10.247852462750522
+    },
+    {
+        "depth": 8,
+        "kernel_size": 238,
+        "nb_filters": 32,
+        "window_length": 26.45763937161083
+    },
+    {
+        "depth": 8,
+        "kernel_size": 180,
+        "nb_filters": 2,
+        "window_length": 4.7802813664594375
+    },
+    {
+        "depth": 11,
+        "kernel_size": 14,
+        "nb_filters": 16,
+        "window_length": 21.738852536390752
+    },
+    {
+        "depth": 6,
+        "kernel_size": 64,
+        "nb_filters": 2,
+        "window_length": 10.089761791171721
+    },
+    {
+        "depth": 1,
+        "kernel_size": 197,
+        "nb_filters": 2,
+        "window_length": 25.984953829781542
+    },
+    {
+        "depth": 10,
+        "kernel_size": 214,
+        "nb_filters": 32,
+        "window_length": 28.315992061760834
+    },
+    {
+        "depth": 8,
+        "kernel_size": 235,
+        "nb_filters": 16,
+        "window_length": 23.26106619575494
+    },
+    {
+        "depth": 1,
+        "kernel_size": 9,
+        "nb_filters": 2,
+        "window_length": 5.712797235927918
+    },
+    {
+        "depth": 8,
+        "kernel_size": 31,
+        "nb_filters": 8,
+        "window_length": 10.465897110281777
+    },
+    {
+        "depth": 1,
+        "kernel_size": 69,
+        "nb_filters": 32,
+        "window_length": 18.460883981386758
+    },
+    {
+        "depth": 6,
+        "kernel_size": 108,
+        "nb_filters": 16,
+        "window_length": 17.77534841396224
+    },
+    {
+        "depth": 2,
+        "kernel_size": 27,
+        "nb_filters": 16,
+        "window_length": 15.395510403068648
+    },
+    {
+        "depth": 2,
+        "kernel_size": 131,
+        "nb_filters": 4,
+        "window_length": 27.473428267437143
+    },
+    {
+        "depth": 2,
+        "kernel_size": 135,
+        "nb_filters": 8,
+        "window_length": 16.606788884954497
+    },
+    {
+        "depth": 3,
+        "kernel_size": 29,
+        "nb_filters": 16,
+        "window_length": 9.996665814533241
+    },
+    {
+        "depth": 1,
+        "kernel_size": 20,
+        "nb_filters": 64,
+        "window_length": 14.86653545613325
+    },
+    {
+        "depth": 10,
+        "kernel_size": 84,
+        "nb_filters": 16,
+        "window_length": 21.79633251495816
+    },
+    {
+        "depth": 5,
+        "kernel_size": 61,
+        "nb_filters": 32,
+        "window_length": 4.434474648169854
+    },
+    {
+        "depth": 4,
+        "kernel_size": 56,
+        "nb_filters": 32,
+        "window_length": 18.050165246041498
+    },
+    {
+        "depth": 11,
+        "kernel_size": 62,
+        "nb_filters": 16,
+        "window_length": 15.093417375585613
+    },
+    {
+        "depth": 3,
+        "kernel_size": 47,
+        "nb_filters": 16,
+        "window_length": 25.6412990655004
+    },
+    {
+        "depth": 9,
+        "kernel_size": 62,
+        "nb_filters": 64,
+        "window_length": 16.11728117514021
+    },
+    {
+        "depth": 8,
+        "kernel_size": 217,
+        "nb_filters": 8,
+        "window_length": 13.72380087607585
+    },
+    {
+        "depth": 5,
+        "kernel_size": 188,
+        "nb_filters": 4,
+        "window_length": 14.202347859477804
+    },
+    {
+        "depth": 11,
+        "kernel_size": 72,
+        "nb_filters": 32,
+        "window_length": 26.438795778919374
+    },
+    {
+        "depth": 3,
+        "kernel_size": 20,
+        "nb_filters": 2,
+        "window_length": 24.573058158246926
+    },
+    {
+        "depth": 11,
+        "kernel_size": 118,
+        "nb_filters": 32,
+        "window_length": 21.222806786403268
+    },
+    {
+        "depth": 7,
+        "kernel_size": 242,
+        "nb_filters": 4,
+        "window_length": 9.397332438064417
+    },
+    {
+        "depth": 2,
+        "kernel_size": 190,
+        "nb_filters": 32,
+        "window_length": 10.467202956180625
+    },
+    {
+        "depth": 7,
+        "kernel_size": 183,
+        "nb_filters": 64,
+        "window_length": 22.36554027143121
+    },
+    {
+        "depth": 6,
+        "kernel_size": 12,
+        "nb_filters": 16,
+        "window_length": 20.301088630183084
+    },
+    {
+        "depth": 7,
+        "kernel_size": 128,
+        "nb_filters": 4,
+        "window_length": 15.80433658918761
+    },
+    {
+        "depth": 9,
+        "kernel_size": 59,
+        "nb_filters": 4,
+        "window_length": 16.861827047116073
+    },
+    {
+        "depth": 5,
+        "kernel_size": 207,
+        "nb_filters": 64,
+        "window_length": 28.369004432100702
+    },
+    {
+        "depth": 7,
+        "kernel_size": 151,
+        "nb_filters": 16,
+        "window_length": 19.409810288984414
+    },
+    {
+        "depth": 1,
+        "kernel_size": 141,
+        "nb_filters": 16,
+        "window_length": 24.93270787761828
+    },
+    {
+        "depth": 6,
+        "kernel_size": 223,
+        "nb_filters": 4,
+        "window_length": 24.54819799251946
+    },
+    {
+        "depth": 5,
+        "kernel_size": 227,
+        "nb_filters": 64,
+        "window_length": 3.517229900659723
+    },
+    {
+        "depth": 1,
+        "kernel_size": 42,
+        "nb_filters": 2,
+        "window_length": 8.955650965730916
+    },
+    {
+        "depth": 3,
+        "kernel_size": 17,
+        "nb_filters": 4,
+        "window_length": 29.328771391242125
+    },
+    {
+        "depth": 2,
+        "kernel_size": 39,
+        "nb_filters": 2,
+        "window_length": 29.58057477733438
+    },
+    {
+        "depth": 2,
+        "kernel_size": 246,
+        "nb_filters": 4,
+        "window_length": 14.921303052971274
+    },
+    {
+        "depth": 3,
+        "kernel_size": 72,
+        "nb_filters": 64,
+        "window_length": 7.543433244915597
+    },
+    {
+        "depth": 5,
+        "kernel_size": 35,
+        "nb_filters": 32,
+        "window_length": 12.271561894173544
+    },
+    {
+        "depth": 2,
+        "kernel_size": 108,
+        "nb_filters": 4,
+        "window_length": 10.601413081909332
+    },
+    {
+        "depth": 4,
+        "kernel_size": 62,
+        "nb_filters": 8,
+        "window_length": 25.185627804859323
+    },
+    {
+        "depth": 2,
+        "kernel_size": 151,
+        "nb_filters": 2,
+        "window_length": 4.717801713860901
+    },
+    {
+        "depth": 1,
+        "kernel_size": 200,
+        "nb_filters": 32,
+        "window_length": 17.16743559275306
+    },
+    {
+        "depth": 9,
+        "kernel_size": 234,
+        "nb_filters": 2,
+        "window_length": 18.30269292468877
+    },
+    {
+        "depth": 6,
+        "kernel_size": 157,
+        "nb_filters": 2,
+        "window_length": 18.93933806627105
+    },
+    {
+        "depth": 11,
+        "kernel_size": 168,
+        "nb_filters": 2,
+        "window_length": 29.357773196125617
+    },
+    {
+        "depth": 2,
+        "kernel_size": 69,
+        "nb_filters": 8,
+        "window_length": 15.382293953735171
+    },
+    {
+        "depth": 8,
+        "kernel_size": 100,
+        "nb_filters": 8,
+        "window_length": 8.066353906400007
+    },
+    {
+        "depth": 4,
+        "kernel_size": 113,
+        "nb_filters": 64,
+        "window_length": 15.16013700209009
+    },
+    {
+        "depth": 8,
+        "kernel_size": 57,
+        "nb_filters": 8,
+        "window_length": 21.15914779709704
+    },
+    {
+        "depth": 5,
+        "kernel_size": 238,
+        "nb_filters": 64,
+        "window_length": 7.897915804548908
+    },
+    {
+        "depth": 1,
+        "kernel_size": 121,
+        "nb_filters": 8,
+        "window_length": 18.4825561731884
+    }
+]

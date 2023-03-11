@@ -1,0 +1,59 @@
+{
+    "overall": {
+        "mAP": 0.30672564047604095,
+        "accuracy": 0.34660421545667447,
+        "expected mAP": 0.25,
+        "balanced accuracy": 0.25,
+        "adjusted balanced accuracy": 0.0
+    },
+    "classwise": {
+        "0": {
+            "TN": 0,
+            "FP": 279,
+            "FN": 0,
+            "TP": 148,
+            "AP": 0.4189488126897179,
+            "recall": 1.0,
+            "precision": 0.34660421545667447,
+            "specificity": 0.0,
+            "accuracy": 0.34660421545667447,
+            "expected AP": 0.34660421545667447
+        },
+        "1": {
+            "TN": 217,
+            "FP": 0,
+            "FN": 210,
+            "TP": 0,
+            "AP": 0.6645302062409476,
+            "recall": 0.0,
+            "precision": 0.0,
+            "specificity": 1.0,
+            "accuracy": 0.5081967213114754,
+            "expected AP": 0.4918032786885246
+        },
+        "2": {
+            "TN": 388,
+            "FP": 0,
+            "FN": 39,
+            "TP": 0,
+            "AP": 0.08769245104482613,
+            "recall": 0.0,
+            "precision": 0.0,
+            "specificity": 1.0,
+            "accuracy": 0.9086651053864169,
+            "expected AP": 0.09133489461358314
+        },
+        "3": {
+            "TN": 397,
+            "FP": 0,
+            "FN": 30,
+            "TP": 0,
+            "AP": 0.05573109192867212,
+            "recall": 0.0,
+            "precision": 0.0,
+            "specificity": 1.0,
+            "accuracy": 0.9297423887587822,
+            "expected AP": 0.0702576112412178
+        }
+    }
+}

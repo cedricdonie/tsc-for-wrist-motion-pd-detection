@@ -1,0 +1,10 @@
+pgf.texsystem: pdflatex
+font.family: serif
+pgf.rcfonts: False
+text.usetex: False
+pgf.preamble: \usepackage{siunitx}
+savefig.bbox: tight
+savefig.pad_inches: 0
+figure.constrained_layout.use: True
+figure.constrained_layout.h_pad: 0
+figure.constrained_layout.w_pad: 0

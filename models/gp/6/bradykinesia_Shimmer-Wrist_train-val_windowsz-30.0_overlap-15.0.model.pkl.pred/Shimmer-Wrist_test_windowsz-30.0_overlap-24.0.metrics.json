@@ -1,0 +1,15 @@
+{
+    "TN": 571,
+    "FP": 153,
+    "FN": 119,
+    "TP": 153,
+    "AP": 0.504275686980924,
+    "recall": 0.5625,
+    "precision": 0.5,
+    "specificity": 0.7886740331491713,
+    "accuracy": 0.7269076305220884,
+    "expected AP": 0.27309236947791166,
+    "auroc": 0.7391305451738706,
+    "balanced accuracy": 0.6755870165745856,
+    "adjusted balanced accuracy": 0.3511740331491713
+}

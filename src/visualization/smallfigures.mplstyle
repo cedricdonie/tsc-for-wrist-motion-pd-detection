@@ -1,0 +1,4 @@
+figure.figsize: 3.256, 1.8
+lines.markersize: 3
+#xtick.major.pad: 4
+#ytick.major.pad: 4

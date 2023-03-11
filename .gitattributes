@@ -1,0 +1,7 @@
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.npz filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.pgf filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.model.h5.txt filter=lfs diff=lfs merge=lfs -text
+*.model.pkl.txt filter=lfs diff=lfs merge=lfs -text

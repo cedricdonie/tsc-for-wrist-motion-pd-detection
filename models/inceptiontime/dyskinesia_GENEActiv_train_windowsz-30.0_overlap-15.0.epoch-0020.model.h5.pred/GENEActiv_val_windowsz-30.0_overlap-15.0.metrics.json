@@ -1,0 +1,15 @@
+{
+    "TN": 394,
+    "FP": 0,
+    "FN": 29,
+    "TP": 4,
+    "AP": 0.2371623522217762,
+    "recall": 0.12121212121212122,
+    "precision": 1.0,
+    "specificity": 1.0,
+    "accuracy": 0.9320843091334895,
+    "expected AP": 0.07728337236533958,
+    "auroc": 0.5976772804183972,
+    "balanced accuracy": 0.5606060606060606,
+    "adjusted balanced accuracy": 0.1212121212121211
+}
