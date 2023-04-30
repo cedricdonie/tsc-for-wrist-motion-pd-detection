@@ -1,5 +1,5 @@
 # Time Series Classification for Detecting Parkinson's Disease from Wrist Motions
-This is the source code for the paper titled _Time Series Classification for Detecting Parkinson's Disease from Wrist Motions_.
+This is the source code for the paper titled _Time Series Classification for Detecting Parkinson's Disease from Wrist Motions_<sup>[[arXiv]](https://doi.org/10.48550/arXiv.2304.11265)</sup>.
 
 > **Abstract**
 >
